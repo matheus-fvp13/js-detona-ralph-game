@@ -7,7 +7,7 @@ O Jogo Detona Ralph dá vida ao adorado personagem Ralph em uma empolgante exper
 
 ## Como jogar
 1. **Iniciar o Jogo:**
-   Acesse o site da aplicação disponivel em [https://matheus-fvp13.github.io/js-detona-ralph-game/]('https://matheus-fvp13.github.io/js-detona-ralph-game/')
+   Acesse o site da aplicação disponivel em [https://matheus-fvp13.github.io/js-detona-ralph-game/](https://matheus-fvp13.github.io/js-detona-ralph-game/)
 2. **Objetivo do Jogo:**
    Acerte os quadrados com inimigos para ganhar pontos.
 3. **Controles:**
@@ -18,7 +18,7 @@ O Jogo Detona Ralph dá vida ao adorado personagem Ralph em uma empolgante exper
    O jogo termina quando o tempo se esgota. Sua pontuação final será exibida.
 
 ## Créditos
-  O Jogo Detona Ralph é um projeto criado por [Matheus Fernando Vieira Pinto]('https://www.linkedin.com/in/matheus-fvp/')
+  O Jogo Detona Ralph é um projeto criado por [Matheus Fernando Vieira Pinto](https://www.linkedin.com/in/matheus-fvp/)
 
 
   
